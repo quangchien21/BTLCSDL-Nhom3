@@ -1,0 +1,33 @@
+D:\Desktop\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe.config
+D:\Desktop\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe
+D:\Desktop\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.pdb
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.AssemblyReference.cache
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Form1.resources
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Properties.Resources.resources
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.GenerateResource.cache
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.CoreCompileInputs.cache
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.exe
+D:\Desktop\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.pdb
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe.config
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.pdb
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.AssemblyReference.cache
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.SuggestedBindingRedirects.cache
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Form1.resources
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Properties.Resources.resources
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.GenerateResource.cache
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.CoreCompileInputs.cache
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.exe
+E:\Documents\Downloads\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.pdb
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe.config
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.exe
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\bin\Debug\Hàng hóa.pdb
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.AssemblyReference.cache
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Form1.resources
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng_hóa.Properties.Resources.resources
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.GenerateResource.cache
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.csproj.CoreCompileInputs.cache
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.exe
+D:\Desktop\W3\Hàng hóa (1)\Hàng hóa\Hàng hóa\obj\Debug\Hàng hóa.pdb
